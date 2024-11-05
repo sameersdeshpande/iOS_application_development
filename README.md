@@ -5,6 +5,6 @@ This repository contains all assignments and submissions for the course on smart
 ## Tech Stack
 - **Programming Language:** Swift
 - **Development Environment:** Xcode
-- **Backend Services:** Firebase
+- **Backend Services:** SQLite
 
 Feel free to explore the code and examples provided in this repository!
